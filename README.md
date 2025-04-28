@@ -22,31 +22,35 @@ data: Text.
 # Here's The Query Statements
 
 ## 1.Student Table.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1.1%20(2).png)
+![image](https://github.com/user-attachments/assets/9c7868c2-03a2-42c7-9672-93ccc46a0a56)
+
 
 ## 2.Assignment Table.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/assignment%20tbl.png)
+![image](https://github.com/user-attachments/assets/636d4ae7-6112-4cc6-a80e-bcc530383d2b)
+
 
 ## 3.Submission Table.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/submission%20tbl.png)
+![image](https://github.com/user-attachments/assets/56b3f135-d436-4a46-b803-25b07ea1972a)
+
 
 
 # Here's The Table Structures
 
 ## 1.Student Table.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1.1.png)
+![image](https://github.com/user-attachments/assets/7c00f7a4-05c9-4a99-b967-f1eff0415606)
 
 ## 2.Assignment Table.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/assignment_tbl2.png)
+![image](https://github.com/user-attachments/assets/c30ff0e2-5b0f-4883-a0d1-ed9ee4fe4769)
 
-## 3.Submission Table.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/submission_tbl2.png)
+![image](https://github.com/user-attachments/assets/900672ee-c065-4e96-85d4-9db54b46d097)
 
 
 # Entity-Relationship Diagram (EER):
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/EER%20diagram.png)
+![image](https://github.com/user-attachments/assets/ea321f43-5f2b-466a-a5b4-aaff219ee3f1)
+
 
 # The Basis for the Creation of the Ralational Tables:
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/creation%20of%20relational%20tbl.png)
+![image](https://github.com/user-attachments/assets/ced1e06c-824a-4c58-a867-d8d15efeece6)
+
 
 [BACK TO PORTFOLIO](https://zomue.github.io/)
